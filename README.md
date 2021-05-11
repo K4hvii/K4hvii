@@ -2,7 +2,9 @@
 - 👀 I’m interested in Learning everything about coding
 - 🌱 I’m currently learning Python and javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+- Discord: weriniaa#6875
+- Steam: https://steamcommunity.com/id/Weriniaa/
 
 <!---
 K4hvii/K4hvii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
