@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Weriniaa
 - 👀 I’m interested in Learning everything about coding
 - 🌱 I’m currently learning Python and javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - Discord: weriniaa#6875
 - Steam: https://steamcommunity.com/id/Weriniaa/
