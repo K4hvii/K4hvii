@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @K4hvii
+- 👋 Hi, I’m @Weriniaa
 - 👀 I’m interested in Learning everything about coding
 - 🌱 I’m currently learning Python and javascript
 - 💞️ I’m looking to collaborate on ...
